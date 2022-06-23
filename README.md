@@ -1,7 +1,6 @@
 # An extended Python implementation of CSNLN
 
 # Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining 
-This repository is for CSNLN introduced in the following paper
 
 [Yiqun Mei](http://yiqunm2.web.illinois.edu/), [Yuchen Fan](https://scholar.google.com/citations?user=BlfdYL0AAAAJ&hl=en), [Yuqian Zhou](https://yzhouas.github.io/), [Lichao Huang](https://scholar.google.com/citations?user=F2e_jZMAAAAJ&hl=en), [Thomas S. Huang](https://ifp-uiuc.github.io/), and [Humphrey Shi](https://www.humphreyshi.com/), "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR2020, [[arXiv]](https://arxiv.org/abs/2006.01424) 
 
